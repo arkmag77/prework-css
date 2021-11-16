@@ -1,0 +1,25 @@
+
+body {
+    background-color: #faebd6;
+}
+h1 {
+     color: #ff0000;
+     background-color: #f8fad6c4;
+}
+.pargraf1 {
+    color: #a42423;
+    background-color: #fad6d6ea;
+}
+h2 {
+    color: #00ff6a;
+    background-color: #f0fad6;
+}
+.pargraf2 {
+    color: #00008f;
+    background-color: #e0fad6ef;
+}
+ol li {
+    color: #007e8f; 
+    background-color: #d6faf8;
+}
+

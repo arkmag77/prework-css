@@ -1,0 +1,15 @@
+
+p {
+    background-color: #ff0000;
+    width: 100px;
+    height: 100px;
+    
+}
+p.paragraf1 {
+    background-color: #0400ff;
+}
+
+p.paragraf2 {
+   opacity: 0.5;
+}
+
